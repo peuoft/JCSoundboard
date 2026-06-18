@@ -225,15 +225,15 @@ const words = [
   word: "Legs",
   image: "images/legs.png",
   productions: [
-    { ipa: "[lɛɡz]", audio: "audio/legs_1.wav" },
-    { ipa: "[lɛɡ]", audio: "audio/legs_2.wav" },
-    { ipa: "[lɛɡ dɛm]", audio: "audio/legs_3.wav" },
-    { ipa: "[lɛɡə]", audio: "audio/legs_4.wav" },
-    { ipa: "[lɛɡzə]", audio: "audio/legs_5.wav" },
-    { ipa: "[fʊt]", audio: "audio/legs_6.wav" },
-    { ipa: "[dɪ fʊt dɛm]", audio: "audio/legs_7.wav" },
-    { ipa: "[di fʊt dɛm]", audio: "audio/legs_8.wav" },
-    { ipa: "[fʊts]", audio: "audio/legs_9.wav" }
+    { ipa: "[lɛɡz]", audio: "audio/leg_1.wav" },
+    { ipa: "[lɛɡ]", audio: "audio/leg_2.wav" },
+    { ipa: "[lɛɡ dɛm]", audio: "audio/leg_3.wav" },
+    { ipa: "[lɛɡə]", audio: "audio/leg_4.wav" },
+    { ipa: "[lɛɡzə]", audio: "audio/leg_5.wav" },
+    { ipa: "[fʊt]", audio: "audio/leg_6.wav" },
+    { ipa: "[dɪ fʊt dɛm]", audio: "audio/leg_7.wav" },
+    { ipa: "[di fʊt dɛm]", audio: "audio/leg_8.wav" },
+    { ipa: "[fʊts]", audio: "audio/leg_9.wav" }
   ]
 },
 
