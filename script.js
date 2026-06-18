@@ -202,8 +202,7 @@ const words = [
     { ipa: "[ʧɛəɹ]", audio: "audio/chair_4.wav" },
     { ipa: "[ʧɪə]", audio: "audio/chair_5.wav" },
     { ipa: "[ʧɛə]", audio: "audio/chair_6.wav" },
-    { ipa: "[si:t]", audio: "audio/chair_7.wav" },
-    { ipa: "[szct]", audio: "audio/chair_8.wav" }
+    { ipa: "[si:t]", audio: "audio/chair_7.wav" }
   ]
 },
 
